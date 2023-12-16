@@ -55,7 +55,7 @@
     <repositories>
         <repository>
             <id>paper</id>
-            <url>http://xuan.nctu.me:8081/repository/Maven/</url>
+            <url>https://xuan.nctu.me:8081/repository/Maven/</url>
         </repository>
     </repositories>
 
